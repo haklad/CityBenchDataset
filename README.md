@@ -2,4 +2,4 @@
 This is the dataset that we intended to make open source as mentioned in the "Comparison of IoT architectures using a Smart City Benchmark" paper.
 
 The datset here is a subset of CityPulse Smart City Data Collection.
-link:http://iot.ee.surrey.ac.uk:8080
+:http://iot.ee.surrey.ac.uk:8080
